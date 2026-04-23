@@ -1,40 +1,56 @@
-# 👋 Hey there, I’m Fayzullo!
+# 👋 Hey, I’m Fayzullo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=940&lines=Passionate+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%92%A1;Always+Learning+New+Things+%F0%9F%93%9A;Turning+Ideas+into+Code+%E2%9C%A8)](https://git.io/typing-svg)
+🚀 Backend Developer | Automation Enthusiast  
 
 ---
 
-## 🚀 About Me
+## 💡 About Me
 
-- 🔭 I’m currently working on **some projects and smart digital solutions**
-- 🌱 Learning **Node.js**, **AI tools**, and building scalable **backends**
-- 🧠 Curious about automation, APIs, and tech that makes life easier
-- ✨ Always open to interesting freelance projects & collaborations
+I build scalable backend systems and automation tools that solve real problems.
+
+- 🔧 Working with **Node.js**, **TypeScript**, and modern backend frameworks  
+- 🧠 Interested in **APIs, system design, and AI-powered tools**  
+- 📈 Focused on writing clean, maintainable, and scalable code  
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+- **Backend:** Node.js, NestJS, Express  
+- **Languages:** JavaScript, TypeScript  
+- **Database:** MongoDB, Mongoose  
+- **Tools:** REST APIs, Git, Docker (learning)  
 
 ---
 
-## 🌐 Social Media
+## 🚀 What I Build
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/fayzullo)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/fayzullo_n)
+- RESTful APIs and backend services  
+- Scalable systems for real-world applications  
+- Automation tools and integrations  
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/fayzullo  
+- 📩 Telegram: https://t.me/fayzullo_n  
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=nasibullaev&show_icons=true&theme=tokyonight&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=nasibullaev&theme=tokyonight&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=nasibullaev&show_icons=true&theme=tokyonight&hide_border=true)  
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=nasibullaev&theme=tokyonight&hide_border=true)
 
 ---
 
-_Thanks for stopping by!_ ⭐ Feel free to check out my repositories and leave a ⭐ if you find something cool!
+## ⚡ Current Focus
+
+- Improving **system design skills**  
+- Building **production-ready backend projects**  
+- Exploring **AI integrations in backend systems**
+
+---
+
+⭐ Check out my repositories — I focus on practical, real-world solutions.
